@@ -59,10 +59,10 @@ stock-data-analyser/
 
 ## How It Works
 
-1. **Fetch** enter a ticker (e.g. `AAPL`) and select a period (1m / 3m / 6m / 1y); the app calls the yfinance API and stores results in SQLite
-2. **Analyse** the dashboard computes MA20/MA50, period high/low, and percentage change from stored data
-3. **Compare** the comparison tab normalises all tracked stocks to a base of 100 for fair performance comparison
-4. **Fallback** if live data is unavailable, the app generates consistent sample data using a seeded random number generator so it remains fully functional offline
+1. **Fetch** - enter a ticker (e.g. `AAPL`) and select a period (1m / 3m / 6m / 1y); the app calls the yfinance API and stores results in SQLite
+2. **Analyse** - the dashboard computes MA20/MA50, period high/low, and percentage change from stored data
+3. **Compare** - the comparison tab normalises all tracked stocks to a base of 100 for fair performance comparison
+4. **Fallback** - if live data is unavailable, the app generates consistent sample data using a seeded random number generator so it remains fully functional offline
 
 ## Screenshots
 
