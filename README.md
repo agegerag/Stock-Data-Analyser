@@ -55,6 +55,7 @@ streamlit run app.py
 stock-data-analyser/
 ├── app.py                # Streamlit web dashboard
 └── README.md
+|__ requirements.txt
 ```
 
 ## How It Works
