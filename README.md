@@ -2,7 +2,7 @@
 
 A Python application for fetching, storing, and analysing historical stock price data, with a clean web dashboard built in Streamlit.
 
-> **Live demo:** *(deploy to [Streamlit Cloud](https://streamlit.io/cloud) for free and paste your link here)*
+> **Live demo:** https://stock-data-analyser.streamlit.app/
 
 ## Overview
 
@@ -65,8 +65,9 @@ stock-data-analyser/
 4. **Fallback** - if live data is unavailable, the app generates consistent sample data using a seeded random number generator so it remains fully functional offline
 
 ## Screenshots
+<img width="1807" height="912" alt="Screenshot 2026-03-27 001405" src="https://github.com/user-attachments/assets/87785f49-5b6b-44cb-bf09-7f84c6d5369c" />
 
-*(Add screenshots here once deployed)*
+
 
 ## Author
 
