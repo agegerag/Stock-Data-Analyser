@@ -70,6 +70,5 @@ stock-data-analyser/
 
 ## Author
 
-**Thabang Aubrey Kgosiemang**
-BSc Computer Science & Informatics, University of Johannesburg
-[kgosiemangt07@gmail.com](mailto:kgosiemangt07@gmail.com)
+**Thabang Kgosiemang**
+
